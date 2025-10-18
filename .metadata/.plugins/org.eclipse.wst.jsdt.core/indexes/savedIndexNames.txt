@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+E:\DEVOPS-EXAM\devops-exam-fullstack\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+81329756.index
+1395312907.index
+3618813956.index
+3100616321.index
+1575641856.index
+643394816.index
